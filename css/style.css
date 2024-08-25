@@ -155,12 +155,12 @@ h6, .h6 {
 }
 
 .btn-secondary {
-  background: #07085d;
+  background: #165C7D;
   color: #fff;
   border: 0;
 }
 .btn-secondary:active, .btn-secondary:hover, .btn-secondary.focus, .btn-secondary.active {
-  background: #07085d !important;
+  background: #165C7D !important;
   color: #fff;
   border: 0;
 }
@@ -343,7 +343,7 @@ a:hover {
   width: 100%;
   top: 0;
   left: 0;
-  background: #07085d;
+  background: #165C7D;
   opacity: 0.8;
 }
 .overlay-secondary-half {
@@ -356,7 +356,7 @@ a:hover {
   width: 100%;
   top: 0;
   left: 0;
-  background: linear-gradient(to right, #07085d 60%, transparent);
+  background: linear-gradient(to right, #165C7D 60%, transparent);
 }
 .overlay-image {
   position: absolute;
@@ -379,7 +379,7 @@ a:hover {
 }
 
 .bg-secondary {
-  background: #07085d !important;
+  background: #165C7D !important;
 }
 
 .text-primary {
@@ -387,7 +387,7 @@ a:hover {
 }
 
 .text-secondary {
-  color: #07085d !important;
+  color: #165C7D !important;
 }
 
 .text-gradient-primary {
@@ -519,7 +519,7 @@ textarea.form-control {
   font-size: 14px;
   left: 0;
   top: 0px;
-  color: #07085d;
+  color: #165C7D;
   transition: 0.3s ease;
 }
 
@@ -530,7 +530,7 @@ textarea.form-control {
   width: 50px;
   border-radius: 50%;
   line-height: 50px;
-  background: #07085d;
+  background: #165C7D;
   color: #fff;
   text-align: center;
 }
@@ -541,7 +541,7 @@ textarea.form-control {
   transition: 0.3s ease;
 }
 .navigation.nav-bg {
-  background-color: #07085d;
+  background-color: #165C7D;
   padding: 15px 100px;
 }
 @media (max-width: 991px) {
@@ -552,7 +552,7 @@ textarea.form-control {
 @media (max-width: 991px) {
   .navigation {
     padding: 20px;
-    background: #07085d;
+    background: #165C7D;
   }
 }
 
@@ -611,13 +611,13 @@ textarea.form-control {
   transition: inherit;
 }
 .hover-bg-secondary:hover {
-  background: #07085d;
+  background: #165C7D;
 }
 .hover-bg-secondary:hover * {
   color: #fff;
 }
 .hover-bg-secondary.active {
-  background: #07085d;
+  background: #165C7D;
 }
 .hover-bg-secondary.active * {
   color: #fff;
